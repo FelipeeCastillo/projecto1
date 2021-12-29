@@ -1,0 +1,31 @@
+
+html {
+    scroll-behavior: smooth;
+  }
+
+body{
+    background-color: black;
+    font-family: 'Open Sans', sans-serif;
+}
+
+.navbar img {
+    height: 40px;
+    margin-right: 5px;
+} 
+
+.titulo{
+    font-family: 'Anton', sans-serif;
+    color: white;
+}
+
+.titulo i{
+    font-size: 38px;
+}
+
+hr{
+    color: white;
+}
+
+.quienes{
+    color: white;
+}
